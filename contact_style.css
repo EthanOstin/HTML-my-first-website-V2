@@ -1,0 +1,23 @@
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input select{
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.myhome{
+    background-color: lightblue;
+    color: black;
+    border: 2px solid white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Make background colour Dark blue without interrupting the form as is */
